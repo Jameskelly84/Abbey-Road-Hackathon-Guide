@@ -17,6 +17,8 @@
 * Retrieve album artwork \(CD covers\) for every album in the catalog
 * Stream full length audio files for every song in the catalog
 
+To share more insight or for additional support with the 7digital API make sure you join the hackathon Slack channel here: https://bit.ly/2DwWJEt
+
 ## API Architecture <a id="api-architecture"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMw7rB6tN87JH_K_qhA%2F-LMwD1UzpvNzajWkgi6a%2F-LMwIvwUUzcirU0BfUue%2FScreen%20Shot%202018-09-21%20at%2014.26.15.png?alt=media&token=81fbb381-48d4-42e1-b095-abfd1ba61346)
